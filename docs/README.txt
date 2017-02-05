@@ -1,4 +1,4 @@
-Kerosene Version 1.0.0 2016-09-01
+Kerosene Version 1.0.0
 
 ABOUT
 ================================================================================
@@ -10,6 +10,7 @@ The program has a number of features:
     3 - A menu providing basic database management functionalities
     4 - A search by date tool to quickly retrieve flight Data
     5 - Facilities to export data to Excel and JSON formats
+    6 - A dashboard to visually display flight routes on a map
 
 All notable changes to this project are documented in the CHANGELOG.md file.
 This project adheres to Semantic Versioning as detailed in this link:
@@ -17,7 +18,7 @@ http://semver.org/.
 
 AUTHOR AND CONTACT INFORMATION
 ================================================================================
-Author: errantbot
+Author: ErrantBot
 Author e-mail: errantbot[at]tutanota[dot]com
 
 LICENSE

@@ -15,6 +15,7 @@ The program has a number of features:
     3 - A menu providing basic database management functionalities
     4 - A search by date tool to quickly retrieve flight Data
     5 - Facilities to export data to Excel and JSON formats
+    6 - A dashboard to visually display flight routes on a map
 
 LICENSE INFORMATION
 ===================
@@ -22,7 +23,7 @@ Kerosene version 1.0.0
 
 The MIT License (MIT)
 
-Copyright © 2016 errantbot
+Copyright © 2016 ErrantBot
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1657,7 +1658,7 @@ class CreditsTool(tk.Toplevel):
         # create main credits label
         self.lbl_info = tk.Label(self, text='Kerosene'
                                             '\ncopyright © {year}'
-                                            '\nerrantbot'
+                                            '\nErrantBot'
                                             '\nversion '
                                             '1.0.0'.format(year=NOW.year),
                                  font=('courier', 10, 'normal'))
