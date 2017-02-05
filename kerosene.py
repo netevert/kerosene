@@ -889,7 +889,7 @@ class UploaderEditorTab(tk.Frame):
                 # in duplicate keys where the DD value is a single digit,
                 # e.g. 2015-05-4-(2), cutting off the flag will result in the
                 # string: 2015-05-4-. When splitting and unpacking the key the
-                # remaining '-' also needs to be removed to avoid causing errors.
+                # remaining '-' also needs to be removed to avoid causing errors
                 if _time[9] == '-':
                     _time = time[:9]
 

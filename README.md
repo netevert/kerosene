@@ -9,9 +9,11 @@ The program has a number of features:
 * Facilities to export data to Excel and JSON formats
 
 ### Installation
+Kerosene is only compatible with Python 3.
+
 A requirements.txt file is provided to install all python modules needed to 
 run the program. Run
-```pip install -r requirements.txt``` to do so.
+```pip install -r requirements.txt``` to install them.
 
 ### License
 The program is distributed under the terms of the the MIT License.
