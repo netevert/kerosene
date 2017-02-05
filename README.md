@@ -16,7 +16,7 @@ run the software is to download the windows installer provided in the release
 page. A zipped folder version of the software is also available on the release
 page should you wish to unzip and run the software from a location of your choice.
 
-If you wish to install kerosene from source you should be aware that kerosene 
+If you wish to install kerosene from source you should be aware that the program 
 is only compatible with Python 3.
 
 A requirements.txt file is provided to install all python modules needed to 
