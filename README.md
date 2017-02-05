@@ -1,3 +1,4 @@
+[[kerosene/data/icons/flame.png|alt=flame]] 
 ### Overview
 Kerosene is a lightweight, compact and intuitive application allowing users to
 record and permanently store flight information in a personal microdatabase.
@@ -10,7 +11,13 @@ The program has a number of features:
 * A dashboard to visually display flight routes on a map
 
 ### Installation
-Kerosene is only compatible with Python 3.
+Kerosene currently runs only on Windows. The easiest way to obtain, install and
+run the software is to download the windows installer provided in the release
+page. A zipped folder version of the software is also available on the release
+page should you wish to unzip and run the software from a location of your choice.
+
+If you wish to install kerosene from source you should be aware that kerosene 
+is only compatible with Python 3.
 
 A requirements.txt file is provided to install all python modules needed to 
 run the program. Run
