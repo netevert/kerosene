@@ -29,6 +29,26 @@ include a copy of the MIT License terms and the copyright notice. Such
 proprietary software retains its proprietary nature even though it
 incorporates software under the MIT License.
 
+### Credits
+As part of it's flight finder facility Kerosene uses tkentrycomplete.py
+a tkinter widget that features autocompletion created by Mitja Martini
+on 2008-11-29. This is a subclass of tkinter.Entry that features
+autocompletion and can be found on Tkinter's Wiki page at
+http://tkinter.unpythonic.net/wiki/AutocompleteEntry.
+
+Kerosene is able to export data to .xlsx spreadsheet files thanks to openpyxl,
+a Python library written by Eric Gazoni and also distributed under MIT license.
+Openpyxl's website can be found at: https://openpyxl.readthedocs.org/en/latest/
+
+In addition Kerosene's flame and Json icons are being used under a Creative
+Commons Attribution 3.0 Unported License. More information on this license can
+be found at https://creativecommons.org/licenses/by/3.0/
+The authors of these icons can be found at http://www.aha-soft.com/ and
+http://p.yusukekamiyamane.com/ respectively.
+
+All other icons used in the program, and their author are found at
+http://www.famfamfam.com/
+
 ### Versioning
 This project adheres to [Semantic Versioning](http://semver.org/). A CHANGELOG 
 file is provided in the docs folder.

@@ -15,28 +15,14 @@ All notable changes to this project are documented in the CHANGELOG.md file.
 This project adheres to Semantic Versioning as detailed in this link:
 http://semver.org/.
 
-INSTALLATION
-================================================================================
-Kerosene is distributed as an installer named "kerosene_install.exe". Once 
-launched you will be prompted by the User Account Control to authorize the 
-program to make changes to your computer. That is normal behaviour as the 
-program has not been digitally signed. Feel free to scan the installer to 
-check it against viruses and ensure the program is harmless. Once you grant 
-authorization, follow the instructions; the installer will take care of 
-everything for you. Enjoy Kerosene!
-
-To uninstall the program locate Kerosene's folder in your computer. It sould 
-be located at C:\Kerosene. You should find Kerosene's uninstaller named 
-"unins000.exe". It will take care of uninstallation procedures for you.
-
 AUTHOR AND CONTACT INFORMATION
 ================================================================================
 Author: errantbot
-Author e-mail: errantbot@tutanota.com
+Author e-mail: errantbot[at]tutanota[dot]com
 
 LICENSE
 ================================================================================
-Kerosene version 1.2
+Kerosene version 1.0.0
 
 Kerosene is released under the terms of the MIT License (MIT). You can find a
 copy in the LICENSE.txt file that should be located in this folder. If for some
