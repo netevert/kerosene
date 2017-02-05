@@ -15,6 +15,14 @@ A requirements.txt file is provided to install all python modules needed to
 run the program. Run
 ```pip install -r requirements.txt``` to install them.
 
+In addition Kerosene needs the [Matplotlib Basemap Toolkit](http://matplotlib.org/basemap/)
+to visually display data. To install the Basemap Toolkit either:
+* Install from [binary](https://sourceforge.net/projects/matplotlib/files/matplotlib-toolkits/)
+making sure you follow the official [installation guidelines](http://matplotlib.org/basemap/users/installing.html).
+* Download a wheel distribution file from [here](http://www.lfd.uci.edu/~gohlke/pythonlibs/#basemap)
+making sure that you select a version compatible and supported by your Python. 
+Then run ```pip install basemap-<your_version>.whl``` to install.
+
 ### License
 The program is distributed under the terms of the the MIT License.
 This license is what is generally known as the "MIT License",
