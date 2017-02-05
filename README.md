@@ -12,7 +12,7 @@ The program has a number of features:
 
 ### Installation
 Kerosene currently runs only on Windows. The easiest way to obtain, install and
-run the software is to download the windows installer provided in the [releases](https://github.com/errantbot/kerosene/releases)
+run the software is to download the Windows installer provided in the [releases](https://github.com/errantbot/kerosene/releases)
 page. A zipped folder version of the software is also available should you wish 
 to unzip and run the software from a location of your choice.
 
