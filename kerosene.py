@@ -101,6 +101,10 @@ import tkinter.ttk as ttk
 import tkinter.filedialog as fd
 import tkinter.messagebox as box
 import webbrowser as web
+import sys
+if getattr(sys, 'frozen', False):
+    os.environ['BASEMAPDATA'] = os.path.join(os.path.dirname(sys.executable),
+                                             'data')
 
 # third-party modules
 import matplotlib
@@ -2457,7 +2461,8 @@ class Gui(tk.Frame):
             selection = str(selection)
 
             # launch routemap tab
-            self.tab_routemap = RoutemapTab(key=selection, is_pickled=self.map_pickle)
+            self.tab_routemap = RoutemapTab(key=selection,
+                                            is_pickled=self.map_pickle)
             self.notebook.add(self.tab_routemap, text="Routemap  ")
             self.notebook.select(self.tab_routemap)
 
@@ -2490,7 +2495,8 @@ class Gui(tk.Frame):
                                     "may take a while..."
 
         # launch airport plot map tab
-        self.tab_airportmap = RoutemapTab(is_route=False, is_pickled=self.map_pickle)
+        self.tab_airportmap = RoutemapTab(is_route=False,
+                                          is_pickled=self.map_pickle)
         self.notebook.add(self.tab_airportmap, text="Routemap  ")
         self.notebook.select(self.tab_airportmap)
 
