@@ -7,6 +7,7 @@ The program has a number of features:
 * A menu providing basic database management functionalities
 * A search by date tool to quickly retrieve flight Data
 * Facilities to export data to Excel and JSON formats
+* A dashboard to visually display flight routes on a map
 
 ### Installation
 Kerosene is only compatible with Python 3.
