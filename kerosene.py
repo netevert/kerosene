@@ -1,9 +1,9 @@
-#!/usr/bin/env python3.4
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
 # About & license info ---------------------------------------------------------
 """
-Version 1.0.0
+Version 1.0.1
 
 ABOUT KEROSENE
 ==============
@@ -19,11 +19,11 @@ The program has a number of features:
 
 LICENSE INFORMATION
 ===================
-Kerosene version 1.0.0
+Kerosene version 1.0.1
 
 The MIT License (MIT)
 
-Copyright © 2016 ErrantBot
+Copyright © 2017 ErrantBot
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1660,7 +1660,7 @@ class CreditsTool(tk.Toplevel):
                                             '\ncopyright © {year}'
                                             '\nErrantBot'
                                             '\nversion '
-                                            '1.0.0'.format(year=NOW.year),
+                                            '1.0.1'.format(year=NOW.year),
                                  font=('courier', 10, 'normal'))
 
         self.lbl_info.grid(row=0, column=0, sticky='w', padx=1, pady=1)

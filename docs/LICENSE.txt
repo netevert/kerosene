@@ -1,8 +1,8 @@
-Kerosene version 1.0.0
+Kerosene version 1.0.1
 
 The MIT License (MIT)
 
-Copyright © 2016 errantbot
+Copyright ï¿½ 2017 ErrantBot
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

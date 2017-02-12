@@ -1,4 +1,4 @@
-Kerosene Version 1.0.0
+Kerosene Version 1.0.1
 
 ABOUT
 ================================================================================
@@ -16,6 +16,25 @@ All notable changes to this project are documented in the CHANGELOG.md file.
 This project adheres to Semantic Versioning as detailed in this link:
 http://semver.org/.
 
+INSTALLATION
+================================================================================
+Kerosene is distributed as an installer named "kerosene-v.1.0.1.exe" and as a
+zipped folder named "kerosene-v.1.0.1.zip". The installer, once launched,
+will trigger a User Account Control request to authorize the program to make
+changes to your computer. That is normal behaviour as the program has not been
+digitally signed. Feel free to scan the installer to check it against viruses
+and ensure that the program is harmless. Once you grant authorization, follow
+the instructions; the installer will take care of everything for you.
+To uninstall the program locate Kerosene's folder in your computer. It should
+be located at C:\Kerosene. You should find Kerosene's uninstall program in there,
+it is named "unins000.exe". It will take care of uninstall procedures for you.
+
+The zipped folder version allows you to run Kerosene from any location in your
+computer. Simply download the zipped folder, extract in a directory of your
+choice and run by selecting the Kerosene.exe in the unzipped folder. You should
+create a shortcut on your desktop to the Kerosene.exe executable for convenience.
+To uninstall the program simply delete the folder and all of it's contents.
+
 AUTHOR AND CONTACT INFORMATION
 ================================================================================
 Author: ErrantBot
@@ -23,11 +42,11 @@ Author e-mail: errantbot[at]tutanota[dot]com
 
 LICENSE
 ================================================================================
-Kerosene version 1.0.0
+Kerosene version 1.0.1
 
 Kerosene is released under the terms of the MIT License (MIT). You can find a
 copy in the LICENSE.txt file that should be located in this folder. If for some
-reson you this file is not present you should head to the license's website at
+reason you this file is not present you should head to the license's website at
 http://opensource.org/licenses/MIT to consult it's terms.
 
 
