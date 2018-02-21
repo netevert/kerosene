@@ -1,4 +1,5 @@
 ![icon](https://github.com/errantbot/kerosene/blob/master/data/icons/flame.png)
+[![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)]()
 ### Overview
 Kerosene is a lightweight, compact and intuitive application allowing users to
 record and permanently store flight information in a personal microdatabase.
