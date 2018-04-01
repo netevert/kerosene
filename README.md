@@ -12,7 +12,8 @@ The program has a number of features:
 * Facilities to export data to Excel and JSON formats
 * A dashboard to visually display flight routes on a map
 
-![img1](https://github.com/netevert/kerosene/blob/master/docs/demo/cap1.PNG)![img2](https://github.com/netevert/kerosene/blob/master/docs/demo/cap2.PNG)![img3](https://github.com/netevert/kerosene/blob/master/docs/demo/cap3.PNG)![img4](https://github.com/netevert/kerosene/blob/master/docs/demo/cap4.PNG)![img5](https://github.com/netevert/kerosene/blob/master/docs/demo/cap5.PNG)
+### Screenshots
+![img1](https://github.com/netevert/kerosene/blob/master/docs/demo/cap1.PNG)![img2](https://github.com/netevert/kerosene/blob/master/docs/demo/cap2.PNG)![img5](https://github.com/netevert/kerosene/blob/master/docs/demo/cap5.PNG)![img3](https://github.com/netevert/kerosene/blob/master/docs/demo/cap3.PNG)![img4](https://github.com/netevert/kerosene/blob/master/docs/demo/cap4.PNG)
 
 ### Installation
 Kerosene currently runs only on Windows. The easiest way to obtain, install and
